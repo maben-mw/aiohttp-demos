@@ -30,4 +30,4 @@ jobs:
         with:
           context: ./demos/chat
           push: true
-          tags: ${{ env.REGISTRY }}/chat:latest
+          tags: ${{ env.REGISTRY }}/maben-mw/chatdemo:latest
